@@ -1,7 +1,6 @@
 syntax = "proto3";
 
 package wcf;
-option java_package = "com.iamteer";
 
 enum Functions {
     FUNC_RESERVED         = 0x00;
